@@ -14,3 +14,4 @@
 *	`(up/down)arrow` go backward/frontward through historty
 *	`Ctrl-L` clear screen
 *	`ctrl-U` clear command
+* `ctrl-Z` stop process
